@@ -5,8 +5,8 @@ import (
 	"github.com/2mf8/Better-Bot-Go/errs"
 	"github.com/2mf8/Better-Bot-Go/log"
 	"github.com/2mf8/Better-Bot-Go/openapi"
-	"github.com/2mf8/Better-Bot-Go/token"
 	v1 "github.com/2mf8/Better-Bot-Go/openapi/v1"
+	"github.com/2mf8/Better-Bot-Go/token"
 )
 
 func init() {
